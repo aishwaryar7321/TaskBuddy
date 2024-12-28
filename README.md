@@ -45,5 +45,9 @@
 - **Browser:** Google Chrome (or any modern browser)
 - **Node.js & npm:** To manage dependencies and run the React application.
 
+- UI
+- <img width="1440" alt="task" src="https://github.com/user-attachments/assets/81c6447a-db3c-42d6-9d18-ade5d6bb6a63" />
+
+
 
 
